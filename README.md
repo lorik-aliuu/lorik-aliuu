@@ -5,8 +5,6 @@
 
  🔭 Computer Science and Engineering student
 
- 💬 Ask me about **java , javascript , .NET**
-
  📫 How to reach me **dev.lorikaliuu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

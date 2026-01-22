@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dev.lorikaliuu@gmail.com**
   
--  ⚡ Fun fact **I trust both my code and Barça’s rebuild.🔴🔵**
+-  ⚡ Fun fact: **I trust both my code and Barça’s rebuild.🔴🔵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

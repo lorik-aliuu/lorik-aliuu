@@ -1,4 +1,6 @@
-# Hi 👋, I'm Lorik Aliu
+
+
+## Hi 👋, I'm Lorik Aliu
 
 ### Software engineer from Kosova
 

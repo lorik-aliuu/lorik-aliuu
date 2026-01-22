@@ -7,6 +7,8 @@
 - 🌱 I'm currently learning **AI/ML**
 
 - 📫 How to reach me **dev.lorikaliuu@gmail.com**
+- 
+- - ⚡ Fun fact **I trust both my code and Barça’s rebuild.:large_blue_circle::red_circle:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

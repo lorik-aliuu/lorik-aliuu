@@ -1,5 +1,9 @@
 name: Space Shooter
 
+concurrency:
+  group: space-shooter-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   schedule:
     - cron: "0 0 * * *"
